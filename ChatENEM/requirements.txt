@@ -1,0 +1,15 @@
+Django==5.2
+djangorestframework
+python-dotenv
+requests
+openai
+gunicorn
+beautifulsoup4
+schedule
+langchain-text-splitters
+PyMuPDF
+python-docx
+easyocr
+opencv-python-headless
+torch
+torchvision
